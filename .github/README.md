@@ -53,7 +53,7 @@
 </p>
 <br/>
 <div align="center">
-    <img src="/Users/pietrobon/Desktop/.github/transformers.png" style="width: 100%;" width="100%">
+    <img src="https://github.com/Piero24/decoder-is-all-you-need/blob/main/.github/transformers.png?raw=true" style="width: 100%;" width="100%">
 </div>
 <br/>
 
@@ -63,12 +63,6 @@
 * **Step-by-Step Implementation:** Mirrors the structure and explanations in Karpathy's video, making it easy to follow along.
 * **Decoder-Centric:** Focuses specifically on the decoder component, which is crucial for understanding sequence generation tasks.
 * **From-Scratch Approach:** Emphasizes building the model without relying on high-level libraries, promoting a deeper understanding of the underlying mechanisms.
-
-<br/>
-<div align="center">
-    <img src="/Users/pietrobon/Desktop/.github/transformers.png" style="width: 100%;" width="100%">
-</div>
-<br/>
 
 ---
 
